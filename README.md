@@ -21,6 +21,27 @@ e visualização de indicadores em Power BI.
 > qual localização apresenta o menor custo logístico estimado
 > para a operação analisada?
 
+### Principais resultados
+
+- **Localização recomendada:** Guarulhos (SP), com custo
+  logístico histórico simulado de R$ 9,27 milhões.
+
+- **Economia potencial estimada:** R$ 60,69 mil em relação
+  à segunda alternativa, São Paulo, nas condições simuladas.
+
+- **Machine Learning:** o modelo baseline apresentou menor
+  erro absoluto médio (MAE) que a regressão linear nos
+  três estados avaliados (SP, RJ e MG).
+
+- **Análise de cenários:** foram simuladas três hipóteses
+  de crescimento da demanda — conservadora, moderada e
+  acelerada — para avaliar os impactos nos custos logísticos.
+
+**Conclusão:** Guarulhos apresentou o menor custo estimado
+entre as quatro alternativas avaliadas. A recomendação
+depende das premissas adotadas e não representa uma
+estimativa de custos reais de transporte.
+
 ---
 
 ## 2. Objetivos
